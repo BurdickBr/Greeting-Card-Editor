@@ -1,7 +1,4 @@
 # CPSC535-SP21-Project1
-Rewriting greeting cards
-
-Group Members: 
-Brandon Burdick   
+Simple python program designed to rewrite select words and phrases in greeting cards!
 
 email: brandonburdick@csu.fullerton.edu
