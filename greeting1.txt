@@ -1,0 +1,5 @@
+"My dear Anna, let me congratulate you on the beautiful car that you purchased today. It looks very posh. I hope you got a good deal. Cars are expensive but much needed. Best regards, Naomi."
+Anna# Jovi and Victor
+car# house
+today# last week
+posh# well built

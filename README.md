@@ -1,2 +1,7 @@
-# Greeting-Card-Editor
-Simple python program that replaces select words/phrases in a string with user supplied replacements.
+# CPSC535-SP21-Project1
+Rewriting greeting cards
+
+Group Members: 
+Brandon Burdick   
+
+email: brandonburdick@csu.fullerton.edu

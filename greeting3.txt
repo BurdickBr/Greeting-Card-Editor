@@ -1,0 +1,6 @@
+"Our newest students have been asked to stay today until the end of the classes. The old principal."
+old# young
+student# teacher
+to# yester
+end# beginning
+new# old

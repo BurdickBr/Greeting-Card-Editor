@@ -1,0 +1,3 @@
+"This is an example file, word1 word2"
+word1# swap1
+word2# swap2
